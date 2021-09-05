@@ -3,7 +3,6 @@ const host = '0.0.0.0';
 const port = 8000;
 
 // comment 1
-// comment 2
 
 // comment 3
 
