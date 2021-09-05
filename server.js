@@ -2,6 +2,9 @@ const http = require("http")
 const host = '0.0.0.0';
 const port = 8000;
 
+// comment 1
+
+
 const requestListener = function (req, res) {
     res.writeHead(200);
     // OS assist to send this info from the node to browser
